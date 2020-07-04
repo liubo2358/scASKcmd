@@ -1,6 +1,6 @@
 # scASKcmd v1.0
 The command line version of the scASK.  Availability: https://github.com/liubo2358/scASKcmd  
-*Note:* In present period, the scASKcmd is only for reproducing the results of the paper. Please contact the corresponding author (xfzou AT whu.edu.cn) if you have further questions about scASKcmd.
+Please contact the corresponding author (xfzou AT whu.edu.cn) if you have further questions about scASKcmd.
 
 
 # Introduction
