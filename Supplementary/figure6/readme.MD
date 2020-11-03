@@ -6,3 +6,5 @@ partitioning for each dataset is exactly the same as scASK, and without any data
 these built-in algorithms have been highly tuned, so we have not changed their default parameters. The trainClassifiers 
 calling by figure6.m in the github repository are directly output by the source code of classification learner, which 
 is convenient for reviewers to reproduce the results of our manuscript.
+
+![figure6](./Supplementary/figure6/figure6.png)  
